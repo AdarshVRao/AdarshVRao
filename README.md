@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**AdarshVRao/AdarshVRao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior .NET & Azure Engineer @ Publicis Re:Sources | Building & Learning Enterprise AI Systems | Agentic AI • RAG • Distributed Architecture
 
-Here are some ideas to get you started:
+WHAT I'M BUILDING NEXT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently on a  journey to become an Enterprise AI Engineer — combining my deep .NET and Azure expertise with Generative AI, RAG systems, AI Agents, and Semantic Kernel. 
+
+Current focus:
+→ RAG (Retrieval-Augmented Generation) with Azure AI Search
+→ AI Agents with Semantic Kernel
+→ Distributed Architecture
+→ Exploring Enterprise AI Systems 
+→ Preparing for Azure AI Engineer Associate (AI-102)
