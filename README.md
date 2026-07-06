@@ -4,7 +4,7 @@ Senior .NET & Azure Engineer @ Publicis Re:Sources | Building & Learning Enterpr
 
 WHAT I'M BUILDING NEXT
 
-I'm currently on a  journey to become an Enterprise AI Engineer — combining my deep .NET and Azure expertise with Generative AI, RAG systems, AI Agents, and Semantic Kernel. 
+I'm currently on a  journey to become an Enterprise AI Engineer — combining my deep .NET and Azure expertise with Agentic AI, RAG systems, AI Agents, and Semantic Kernel,  Distributed AI Architecture
 
 Current focus:
 → RAG (Retrieval-Augmented Generation) with Azure AI Search
